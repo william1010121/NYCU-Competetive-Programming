@@ -1,0 +1,6 @@
+b
+d
+gmp
+set
+map
+solution

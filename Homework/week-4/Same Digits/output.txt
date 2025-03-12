@@ -1,0 +1,5 @@
+3 digit-preserving pair(s)
+x = 3, y = 51, xy = 153
+x = 6, y = 21, xy = 126
+x = 8, y = 86, xy = 688
+0 digit-preserving pair(s)
